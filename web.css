@@ -1,0 +1,46 @@
+h3 {
+  color: blue;
+}
+h1{
+  text-decoration: underline;
+  text-align: center;
+  color: mediumpurple;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 60px;
+}
+h2{
+  font-family: 'Courier New', monspace;
+  font-size: 20px;
+  text-decoration: underline;
+  text-align: center;
+color: indigo;  
+}
+h3{
+  color: indigo;
+  text-align: center;
+  text-decoration: underline;
+}
+h4{
+  text-align: left;
+  font-size:20pt;
+  }
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+
+  justify-content: space-between;
+
+  font-size:12pt;
+}
+
+h5{
+  font-size:20pt;
+}
+h6{
+  font-size:15pt;
+}
+h7{
+  font-size:20pt;
+}
